@@ -23,7 +23,7 @@ __Example 3:__ The advanced use of spreadsheets such as Excel which may use comp
 
 ## Safety Precautions
 
-- Make code Open Source with an [appropriate software license where possible](LINK TBC).
+- Make code Open Source with an [appropriate software license where possible](https://nhsdigital.github.io/rap-community-of-practice/about/#licence).
 - Adopt a standard of Reproducible Analytical Pipelines[2].
 - Compare results to white box (explainable) methods such as [Random Forest](https://en.wikipedia.org/wiki/Random_forest) or [Regression](https://en.wikipedia.org/wiki/Regression_analysis), which may perform just as well.
 - Ensure code is well documented with accompanying and/or inline documentation.
