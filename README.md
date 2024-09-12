@@ -1,6 +1,6 @@
 # Data Hazards Project
 
-<img src="site/images/hazards/general-hazard.png" alt="A Data Hazard Label, similar to a COSSH hazard label, with text Data Science Hazard"  width="200" height="200"></img>
+<img src="/images/data-hazards-banner.png" alt="Data Hazard warning signs labelled algorithmic decision-making, ranking people, difficult to understand."  width="200" height="200"></img>
 
 This is an experimental adapted version of the [Data Hazards Project][dh-site] for use in the data science team at NHS England.
 
