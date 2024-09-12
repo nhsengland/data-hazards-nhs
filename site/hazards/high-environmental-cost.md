@@ -7,8 +7,7 @@
 
 ## Description
 
-This hazard is appropriate where methodologies are energy-hungry, data-hungry (requiring more and more computation), or require special hardware that require rare materials. 
-
+This hazard is appropriate where methodologies are energy-hungry, data-hungry (requiring more and more computation), or require special hardware that require rare materials.
 
 ## Examples
 

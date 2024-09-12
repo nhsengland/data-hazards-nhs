@@ -1,10 +1,9 @@
 # MozFest Workshop - 8th March 2022
 
-This page contains links to things you might need for our MozFest session. 
+This page contains links to things you might need for our MozFest session.
 
 - [Link to the HackMD](https://hackmd.io/@datahazards/mozfest/edit)
 - [Link to the plain HTML version of the Data Hazards](https://very-good-science.github.io/data-hazards/_static/datahazards-plain.html)
-
 
 ## Slides
 

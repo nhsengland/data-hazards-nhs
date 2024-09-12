@@ -1,74 +1,73 @@
 # About
 
-The image below describes the 'anatomy' of a Data Hazard label.   
+The image below describes the 'anatomy' of a Data Hazard label.
 
 ```{image} images/hazardanatomy.png
 :width: 70%
-:alt: All Hazard labels have an descriptive icon, title, description, examples and suggesed safety precautions.
+:alt: All Hazard labels have an descriptive icon, title, description, examples and suggested safety precautions.
 ```
+
 <br>
 
 <!--
 TODO: Alt text is too long and gives 'bad yaml' error. "An example layout of a label that says: every label has an image that represents the concept the label is describing. Title: a short descriptor less than 5 words. Description: the description makes it clear where the label would apply and, if necessary, how it interacts with other labels. Examples: examples are of situations where this hazard would apply. These could be news articles, research projects or tools. Safety Precautions: the safety precautions are very important and describe how researchers and developers could mitigate the potential harm from this label. This may include links to tools that can help (e.g bias checking for machine learning models)."
 -->
 
-## How the project started 
+## How the project started
 
 The Data Hazards project started in 2021.
-We (Natalie Zelenka and Nina Di Cara) spoke together about wanting a way to communicate what might 
-go wrong in data science projects, because we were frustrated by the repetitive themes we were seeing 
+We (Natalie Zelenka and Nina Di Cara) spoke together about wanting a way to communicate what might
+go wrong in data science projects, because we were frustrated by the repetitive themes we were seeing
 in harmful technologies that we talked about in [Data Ethics Club](https://dataethicsclub.com).
-We were also concerned that many projects that have significant societal impact do not have those impacts 
-scrutinised by an ethics committee, because they do not technically have research participants. 
+We were also concerned that many projects that have significant societal impact do not have those impacts
+scrutinised by an ethics committee, because they do not technically have research participants.
 
-After this conversation we came up with the idea of Hazard labels for communicating these potential harms, 
-and called them Data Hazards. 
-We decided they should be visual, like COSHH chemical hazards are, and that they should be a way for 
-people at all stages of data science technology development to communicate about the same potential 
+After this conversation we came up with the idea of Hazard labels for communicating these potential harms,
+and called them Data Hazards.
+We decided they should be visual, like COSHH chemical hazards are, and that they should be a way for
+people at all stages of data science technology development to communicate about the same potential
 outcomes (no matter how far away those outcomes might seem).
 
-You can see [the current Data Hazard labels here](labels).  
-You can [read our original proposal here](materials/misc/proposal).  
+You can see [the current Data Hazard labels here](labels).
+You can [read our original proposal here](materials/misc/proposal).
 
-These days the project is bigger than just us, and we have many contributors who suggest new content, 
-changes to the labels, help us to teach others about ethical hazards or run their own events. 
-If you would like to get involved (we'd love you to!) then we've listed lots of ways 
+These days the project is bigger than just us, and we have many contributors who suggest new content,
+changes to the labels, help us to teach others about ethical hazards or run their own events.
+If you would like to get involved (we'd love you to!) then we've listed lots of ways
 you could on our [Contributing page](contribute).
 
-Once we had thought of the original list of Hazards we wanted a way for researchers to think about them in 
-a format that encouraged them to reflect, invite different opinions and make them think more broadly about 
-the potential ethical concerns from their project. 
-This led to the development of our workshop format and [all the materials we have since made](materials) 
-for self-reflection and teaching. 
-All our resources are designed (and licensed) for re-use by others. 
-
+Once we had thought of the original list of Hazards we wanted a way for researchers to think about them in
+a format that encouraged them to reflect, invite different opinions and make them think more broadly about
+the potential ethical concerns from their project.
+This led to the development of our workshop format and [all the materials we have since made](materials)
+for self-reflection and teaching.
+All our resources are designed (and licensed) for re-use by others.
 
 ## Ethos
 
 The Data Hazards are currently intended to be used creatively and flexibly, in whatever way they are useful
 to the user.
 Sometimes this means they are flashcards for teaching students about ethics, sometimes they are displayed with
-new research to communicate potential harms, and sometimes they are used in workshops as prompts.   
+new research to communicate potential harms, and sometimes they are used in workshops as prompts.
 
-We believe it is important when using the Data Hazards to help investigate risks in a project, that people 
-beyond the original researcher are consulted on potential hazards. 
-This is because we believe that knowledge, including in the sciences, is not objective, and that our 
+We believe it is important when using the Data Hazards to help investigate risks in a project, that people
+beyond the original researcher are consulted on potential hazards.
+This is because we believe that knowledge, including in the sciences, is not objective, and that our
 perspectives are shaped by our lived socio-political experiences (this is based on [standpoint theory](https://en.wikipedia.org/wiki/Standpoint_theory)).
-This means that ethical problems are not going to have a single correct answer, and that to get a well-rounded understanding of the ethical issues of any new technology we need people from lots of different standpoints to analyse it from their perspective. 
+This means that ethical problems are not going to have a single correct answer, and that to get a well-rounded understanding of the ethical issues of any new technology we need people from lots of different standpoints to analyse it from their perspective.
 This is the best way we can understand the harms it could possibly cause.
 We also need to make sure that we are paying attention to how technology might be more likely to adversely affect people from minoritised backgrounds.
 
 We developed our [workshop format](materials/workshop) to help researchers to gather these different views.
 
-In summary, the Data Hazards exist to prompt discussion, reflection and thought. 
-They are not a checkbox exercise, and there is no requirement for a group to come to a consensus. 
+In summary, the Data Hazards exist to prompt discussion, reflection and thought.
+They are not a checkbox exercise, and there is no requirement for a group to come to a consensus.
 In an individual context you will likely come to a conclusion, but someone else may have a different view.
 We hope that the Data Hazards discussion and reflective activities will help researchers be aware of a broader variety of potential ethical risks in tech projects, and that ethics is complex, situational and worth discussing.
 
+## Contact
 
-## Contact 
-
-The Data Hazards Project was founded by Dr Natalie Zelenka and Dr Nina Di Cara, and is now co-led by Natalie, Nina and Dr Huw Day. Our details are provided below.  
+The Data Hazards Project was founded by Dr Natalie Zelenka and Dr Nina Di Cara, and is now co-led by Natalie, Nina and Dr Huw Day. Our details are provided below.
 We're always keen to hear from people interested in the project, or wanting to get involved. Feel free to send us both an email, or you can find us on Twitter!
 
 ```{list-table}
@@ -94,7 +93,7 @@ We're always keen to hear from people interested in the project, or wanting to g
 (project-timeline)=
 ## Project timeline
 
-Here's a rough project timeline that tells the rough history of the project, and sometimes what we have coming up! 
+Here's a rough project timeline that tells the rough history of the project, and sometimes what we have coming up!
 
 ````{panels}
 :container: timeline
@@ -118,7 +117,7 @@ __March-April 2021__: Behind the scenes plans
 ---
 :column: +entry left
 
-__May-Aug 2021__: Prepare for first Data Hazards workshop 
+__May-Aug 2021__: Prepare for first Data Hazards workshop
 ^^^
 
 {fa}`check,text-success mr-1` Launched the website.
@@ -173,7 +172,7 @@ __Feb-May 2022__ Developed new labels and facilitator training materials
 ^^^
 {fa}`check,text-success mr-1` Hired animator to create animated explainers for Data Hazards and new Hazard labels.
 
-{fa}`check,text-success mr-1` Developmed and released run-your-own workshop materials. 
+{fa}`check,text-success mr-1` Developmed and released run-your-own workshop materials.
 
 {fa}`check,text-success mr-1` We went to MozFest 2022 to run a Data Hazards workshop!
 ---
@@ -203,7 +202,7 @@ __July-Dec 2022__: Prepare for first version release
 
 {fa}`check,text-success mr-1` Applied (successfully) for launch event funding from [UKRN](https://www.ukrn.org/about/).
 
-{fa}`check,text-success mr-1` Collect all previous suggestions for the project and think about future versions. 
+{fa}`check,text-success mr-1` Collect all previous suggestions for the project and think about future versions.
 
 ---
 :column: +right
@@ -217,11 +216,11 @@ __July-Dec 2022__: Prepare for first version release
 __March 2023__: Version 1.0 Release!
 ^^^
 
-{fa}`check,text-success mr-1` Attend AI UK 2023 as exhibitors!  
+{fa}`check,text-success mr-1` Attend AI UK 2023 as exhibitors!
 
-- 29th March we will run the Data Hazards V1.0 Launch event! 
+- 29th March we will run the Data Hazards V1.0 Launch event!
 
-- We will release a pre-print of our first paper about the project! 
+- We will release a pre-print of our first paper about the project!
 
 ````
 -->

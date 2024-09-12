@@ -13,6 +13,6 @@ The accuracy of the underlying data is not known and so its use may lead to erro
 
 __Example 1__: Metabolic modelling where inaccurately labelled conversions (e.g. due to computational prediction) might lead to unexpected products being produced by engineered pathways.
 
-
 ## Safety Precautions
+
 Attempt to classify uncertainty if possible to better inform decisions and understand the range of possible outcomes.
