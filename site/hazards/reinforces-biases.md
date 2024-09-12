@@ -11,7 +11,6 @@ Reinforces unfair treatment of individuals and groups. This may be due to for ex
 
 __Note:__ this is a Hazard in it's own right, even if it isn't then used to harm people directly, due to e.g. reinforcing stereotypes.
 
-
 ## Examples
 
 __Example 1__: [Natural Language Processing tools can reinforce sexist tropes about women](https://arxiv.org/abs/1607.06520).
@@ -22,7 +21,7 @@ __Example 3:__ [UK Passport facial recognition checks do not work for people wit
 
 ## Safety Precautions
 
-- Test the effect of the algorithm for different marginalised groups, considering different definitions of [bias]() and [fairness]().
+- Test the effect of the algorithm for different marginalised groups, considering different definitions of bias and fairness.
 - Think about the input data, what intrinsic bias it contains, and how this can be reduced (for example by having a more representative data set).
 - Think about the bias of the algorithm, what intrinsic bias it contains, and how this can be reduced. See Hooker (2021)[^1].
 - Do not [deploy tools that are know to reinforce biases against particular groups](https://www.bbc.co.uk/news/technology-49993647) (for instance, systemic racism).

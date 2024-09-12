@@ -5,9 +5,8 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26fNnar4JvY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-
-Data Hazards is a project to help us all identify the hazards of using data science. 
-Data scientists are great at selling our work, for example communicating the gains in efficiency and accuracy, but we are less well-practiced in thinking about the ethical implications of our work. 
+Data Hazards is a project to help us all identify the hazards of using data science.
+Data scientists are great at selling our work, for example communicating the gains in efficiency and accuracy, but we are less well-practiced in thinking about the ethical implications of our work.
 The ethical implications go beyond most ethics Institutional Review Boards, to questions about the wider societal impact of data science and algorithms work.
 
 ```{admonition} Project Aims
