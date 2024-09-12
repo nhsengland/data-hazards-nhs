@@ -1,6 +1,6 @@
 # Data Hazards Project
 
-<img src="/images/data-hazards-banner.png" alt="Data Hazard warning signs labelled algorithmic decision-making, ranking people, difficult to understand."  height="200"></img>
+<img src="/images/data-hazards-banner.png" alt="Data Hazard warning signs labelled algorithmic decision-making, ranking people, difficult to understand."  height="300"></img>
 
 This is an experimental adapted version of the [Data Hazards Project][dh-site] for use in the data science team at NHS England.
 
