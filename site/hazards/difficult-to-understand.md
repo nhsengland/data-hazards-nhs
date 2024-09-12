@@ -7,7 +7,7 @@
 
 ## Description
 
-There is a danger that the technology is difficult to understand. 
+There is a danger that the technology is difficult to understand.
 This could be because of the technology itself is hard to interpret (e.g. neural nets), or problems with it's implementation (i.e. code is not provided, or not documented).
 
 Depending on the circumstances of its use, this could mean that incorrect results are hard to identify, or that the technology is inaccessible to people (difficult to implement or use).
@@ -23,6 +23,10 @@ __Example 3:__ The advanced use of spreadsheets such as Excel which may use comp
 
 ## Safety Precautions
 
-- Make research code Open Source with [an appropriate software license](https://choosealicense.com/) where possible. Your local [Research Software Engineering](https://society-rse.org/) group may be able to help you with this.
-- Compare results to white box (explainable) methods such as [Random Forest](https://en.wikipedia.org/wiki/Random_forest) or [Regression](https://en.wikipedia.org/wiki/Regression_analysis), which may perform just as well. 
+- Make code Open Source with an [appropriate software license where possible](LINK TBC).
+- Adopt a standard of Reproducible Analytical Pipelines[2].
+- Compare results to white box (explainable) methods such as [Random Forest](https://en.wikipedia.org/wiki/Random_forest) or [Regression](https://en.wikipedia.org/wiki/Regression_analysis), which may perform just as well.
 - Ensure code is well documented with accompanying and/or inline documentation.
+
+[1]: https://datahazards.com/hazards/difficult-to-understand.html
+[2]: https://nhsdigital.github.io/rap-community-of-practice/
